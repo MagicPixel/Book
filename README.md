@@ -1,3 +1,3 @@
-# My Awesome Book
+# 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+    这里将记录自己在学习摄影测量（计算机视觉）过程中的所有心路历程，并希望通过分享，达到技术传播和传承的目的。本人能力有限，在这里记录的都是个人对摄影测量相关知识的个人理解，旨在帮助那些测绘圈外的人，能够了解这个行业。不可作为学术参考内容，是纯粹的科普性质的文章！！有需要的朋友，还是应当寻找更为专业的书籍进行阅读。
