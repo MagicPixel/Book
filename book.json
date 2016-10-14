@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "ace"
+        "ace",
+        "add-path-to-parent"
     ],
     "pluginsConfig": {}
 }
