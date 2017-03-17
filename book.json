@@ -1,7 +1,10 @@
 {
     "plugins": [
         "ace",
-        "add-path-to-parent"
+        "add-path-to-parent",
+        "-search",
+        "emphasize",
+        "katex"
     ],
     "pluginsConfig": {}
 }
