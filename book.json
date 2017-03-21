@@ -2,7 +2,8 @@
     "plugins": [
         "ace",
         "add-path-to-parent",
-        "-search"
+        "-search",
+        "emphasize"
     ],
     "pluginsConfig": {}
 }
