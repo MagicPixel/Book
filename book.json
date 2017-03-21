@@ -3,7 +3,8 @@
         "ace",
         "add-path-to-parent",
         "-search",
-        "emphasize"
+        "emphasize",
+        "katex"
     ],
     "pluginsConfig": {}
 }
